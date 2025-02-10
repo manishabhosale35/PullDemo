@@ -27,3 +27,6 @@ public class SwapingNumber {
 
 }
 }
+-------------------------------------------------------------------
+
+ This is a example of Swapping number
